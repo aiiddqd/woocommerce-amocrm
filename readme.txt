@@ -1,4 +1,4 @@
-=== WooAmoConnector ===
+=== WooCommerce amoCRM ===
 Contributors: casepress
 Donate link: https://wpcraft.ru/product/wooamoconnector-extra/
 Tags: woocommerce, sync, integration, amocrm, amo, crm
