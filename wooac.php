@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: WooAmoConnector
-Version: 0.7.3
+Plugin Name: WooCommerce amoCRM
+Version: 1.0.0
 Plugin URI: https://github.com/uptimizt/wooamoconnector
 Description: AmoCRM & WooCommerce - интеграция. Создание сделок и контактов с сайта в CRM
 Author: WPCraft
